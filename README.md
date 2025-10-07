@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/shafi-yamin-7a300a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@shafiyamin" target="_blank">
+  <a href="https://www.youtube.com/@ReportTheBug" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
   <a href="https://t.me/ShafiYamin" target="_blank">
