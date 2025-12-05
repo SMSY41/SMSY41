@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shafi-yamin-7a300a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.youtube.com/@ReportTheBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://t.me/ShafiYamin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -26,65 +26,82 @@
 
 <h1 align="center">Hey there 👋, I'm Shafi Yamin</h1>
 
-###
+---
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm a passionate developer and data enthusiast focused on Data Analytics.<br><br>
-- 🔭 I’m currently learning and working on <b>Data Analytics</b><br>
-- 📊 Skilled in Python, SQL, and data visualization<br>
-- ⚡ I enjoy connecting software with hardware using Arduino
+I am a passionate developer and aspiring data analyst with a growing focus on transforming data into insights and solutions.<br><br>
+
+🔍 Currently working on projects involving <b>Data Analytics and Business Intelligence</b><br>
+📊 Skilled in <b>Python, SQL, Power BI, Excel/Google Sheets</b>, and data visualization techniques<br>
+🗄️ Interested in <b>data engineering concepts, reporting automation, and dashboard creation</b><br>
+⚙️ I also enjoy exploring embedded systems and connecting software with hardware using Arduino<br><br>
+
+🌱 I am continuously learning and building real-world analytics projects to strengthen my portfolio and career in data-driven decision making.
 </p>
 
-###
+---
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
+
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
 
   <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <img width="12" />
 
   <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img width="12" />
-   <!-- MATLAB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="matlab logo" />
+
+  <!-- MATLAB -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" />
   <img width="12" />
 
   <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
 
   <!-- Kotlin -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
   <img width="12" />
 
   <!-- Flutter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
   <img width="12" />
 
- 
-
   <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img width="12" />
+
+  <!-- SQL Server -->
+  <img src="https://www.svgrepo.com/show/303364/microsoft-sql-server-logo.svg" height="40" />
+  <img width="12" />
+
+  <!-- Power BI -->
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Desktop.svg" height="40" />
+  <img width="12" />
+
+  <!-- Google Sheets -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Google_Sheets_logo_%282014-2020%29.svg" height="40" />
   <img width="12" />
 
   <!-- Arduino -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
+
 </div>
 
-###
+---
 
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=smsy41&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smsy41&show_icons=true&locale=en&layout=compact&theme=dark" height="200" alt="top languages" />
+  <img src="https://streak-stats.demolab.com?user=smsy41&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smsy41&show_icons=true&locale=en&layout=compact&theme=dark" height="200" />
 </div>
