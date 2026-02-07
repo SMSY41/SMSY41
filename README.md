@@ -62,8 +62,6 @@
 
 ---
 
----
-
 ### 🎯 Current Focus
 
 - 📚 Learning advanced machine learning techniques
@@ -71,10 +69,6 @@
 - 📊 Creating automated Power BI dashboards
 - 💡 Developing data pipeline solutions
 - 🌱 Contributing to open-source projects
-
----
-
-
 
 ---
 
