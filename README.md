@@ -15,6 +15,7 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 I'm an **EEE student at International Islamic University Chittagong (IIUC)**
 - 🔭 I'm currently working on **Data Analytics & Business Intelligence Projects**
 - 🌱 I'm learning **Advanced Machine Learning & Deep Analytics**
 - 💬 Ask me about **Python, SQL, Power BI, Data Visualization**
